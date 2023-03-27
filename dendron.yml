@@ -1,0 +1,12 @@
+version: 1
+vaults:
+    -
+        fsPath: vault
+useFMTitle: true
+site:
+    copyAssets: true
+    siteHierarchies:
+        - dendron
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Dendron
