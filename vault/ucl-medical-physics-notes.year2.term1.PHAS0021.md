@@ -61,7 +61,7 @@ $$
 $$
 and for continuous charge distributions: 
 $$
-\textbf{E}(\textbf{R})=\dfrac{1}{4\pi\epsilon_{0}}\int_V{\dfrac{\textbf{R}-\textbf{r}}{{|\textbf{R}-\textbf{r}}|^3}} \rho(\textbf{r})\space dV
+\textbf{E}(\textbf{R})=\dfrac{1}{4\pi\epsilon_{0}}\int_V{\dfrac{\textbf{R}-\textbf{r}}{|\textbf{R}-\textbf{r}|^3} \rho(\textbf{r})\space dV
 $$
 where $\textbf{R}$ is the distance from the origin to the point where electric field is being measured, and $\textbf{r}$ is the distance from the origin to each charge "block" $dV$.
 
